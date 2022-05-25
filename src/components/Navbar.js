@@ -18,7 +18,7 @@ const Navbar = ({setShow, size}) => {
             <div className="mt-6">
                <Link to='/form' className="bg-red-600 text-white font-semibold md:px-8 py-3 px-4 py-3 whitespace-nowrap rounded-xl ml-6">Log in</Link>
                {/* <a href="/form" className="bg-red-600 text-white font-semibold md:px-8 py-3 px-4 py-3 whitespace-nowrap rounded-xl ml-6">Log in</a> */}
-               {/* <a href="" className="bg-red-600 text-white font-semibold md:px-8 py-3 px-4 py-3 whitespace-nowrap rounded-xl ml-6 mr-4">Sign up</a> */}
+               {/* reere    <a href="" className="bg-red-600 text-white font-semibold md:px-8 py-3 px-4 py-3 whitespace-nowrap rounded-xl ml-6 mr-4">Sign up</a> */}
             </div>
         </nav>
         </>
